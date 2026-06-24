@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeilRoystonFranklin
 - 👀 I’m interested in ...Coding, gaming, music
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, JS
 - 💞️ I’m looking to collaborate on ...Python basic projects and also complex ones once im fluent
 - 📫 How to reach me ...neilroxs@gmail.com
 
